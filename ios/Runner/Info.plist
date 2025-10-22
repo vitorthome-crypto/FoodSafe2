@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Precisamos de acesso à câmera para que você possa tirar uma foto para seu perfil.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Precisamos de acesso à galeria para que você possa escolher uma foto para seu perfil.</string>
+</dict>
+</plist>
